@@ -1,0 +1,6 @@
+Alice 85.0
+Bob 90.0
+Charlie 78.0
+Diana 92.0
+Ethan 67.0
+seth 99.0
