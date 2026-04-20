@@ -1,5 +1,4 @@
-# Bookshop FP-Growth Project
-
+# Bookshop FP-Growth Project for Group 5 CSA 806
 ## Files
 - [bookshop_fp_growth.ipynb](bookshop_fp_growth.ipynb) — Spark notebook for synthetic data generation, FP-Growth, and rule extraction
 - [report.md](report.md) — written report with findings and recommendations
