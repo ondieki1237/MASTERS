@@ -1,0 +1,6 @@
+patient_id,hospital,county,visit_date,disease,diagnosis_code
+P001,Mombasa General,Mombasa,2026-03-01,Malaria,MAL01
+P002,Nairobi West,Nairobi,2026-03-01,Typhoid,TYP02
+P003,Mombasa General,Mombasa,2026-03-02,Malaria,MAL01
+P004,Kisumu Central,Kisumu,2026-03-02,Cholera,CHO03
+P005,Nairobi West,Nairobi,2026-03-03,Malaria,MAL01

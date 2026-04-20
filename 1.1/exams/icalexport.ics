@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:-//Moodle Pty Ltd//NONSGML Moodle Version 2024100701.08//EN
+VERSION:2.0
+BEGIN:VEVENT
+UID:20807@somas.ouk.ac.ke
+SUMMARY:Exam troubleshooting link
+DTSTAMP:20260307T160039Z
+LAST-MODIFIED:20260217T165311Z
+DTSTART:20260309T134000Z
+DTEND:20260309T194000Z
+DESCRIPTION:Meeting join URL: https://somas.ouk.ac.ke/mod/zoom/view.php?id=
+	50351.\n\nRichard Rimiru is inviting you to a scheduled Zoom meeting.\n\nTo
+	pic: Exam troubleshooting link\nTime: Mar 9\, 2026 04:40 PM Nairobi\nJoin Z
+	oom Meeting\nhttps://zoom.us/j/93548482672?pwd=F73M9ZKN9zbYHbUkGedqar9y5apA
+	ar.1\n\nMeeting ID: 935 4848 2672\nPasscode: 634356\n\nJoin instructions\nh
+	ttps://zoom.us/meetings/93548482672/invitations?signature=p8u1syQZMB5vTEFkr
+	fe4BeJPmwiWopJeYZSOxgZ3qzo\n\n
+	
+END:VEVENT
+END:VCALENDAR
